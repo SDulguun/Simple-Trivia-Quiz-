@@ -1,0 +1,197 @@
+{
+  "users": {
+    "Duku": {
+      "total_quizzes": 4,
+      "total_score": 292.8571428571429,
+      "average_score": 73.21428571428572,
+      "best_score": 75.0,
+      "total_questions_answered": 30,
+      "total_time_spent": 240.06188941001892,
+      "first_quiz": "2025-11-17T19:24:04.998770",
+      "last_quiz": "2025-11-18T15:48:29.247642"
+    },
+    "Duk": {
+      "total_quizzes": 4,
+      "total_score": 325.0,
+      "average_score": 81.25,
+      "best_score": 87.5,
+      "total_questions_answered": 24,
+      "total_time_spent": 272.687842130661,
+      "first_quiz": "2025-11-18T09:55:24.224304",
+      "last_quiz": "2025-11-18T09:58:05.776905"
+    },
+    "Dukkuu": {
+      "total_quizzes": 2,
+      "total_score": 186.66666666666666,
+      "average_score": 93.33333333333333,
+      "best_score": 93.33333333333333,
+      "total_questions_answered": 30,
+      "total_time_spent": 171.3688759803772,
+      "first_quiz": "2025-11-18T10:26:59.234977",
+      "last_quiz": "2025-11-18T10:27:32.432063"
+    },
+    "DUku": {
+      "total_quizzes": 2,
+      "total_score": 100.0,
+      "average_score": 50.0,
+      "best_score": 50.0,
+      "total_questions_answered": 40,
+      "total_time_spent": 166.3969440460205,
+      "first_quiz": "2025-11-18T10:35:06.911417",
+      "last_quiz": "2025-11-18T10:35:18.111709"
+    },
+    "duk": {
+      "total_quizzes": 2,
+      "total_score": 150.0,
+      "average_score": 75.0,
+      "best_score": 75.0,
+      "total_questions_answered": 16,
+      "total_time_spent": 77.54470920562744,
+      "first_quiz": "2025-11-18T10:57:29.752584",
+      "last_quiz": "2025-11-18T10:57:40.704527"
+    }
+  },
+  "leaderboard": [
+    {
+      "username": "Dukkuu",
+      "score": 14,
+      "total_questions": 15,
+      "percentage": 93.33333333333333,
+      "time_taken": 69.08589792251587,
+      "category": "All",
+      "timestamp": "2025-11-18T10:26:59.235040",
+      "date": "2025-11-18 10:26:59"
+    },
+    {
+      "username": "Dukkuu",
+      "score": 14,
+      "total_questions": 15,
+      "percentage": 93.33333333333333,
+      "time_taken": 102.28297805786133,
+      "category": "All",
+      "timestamp": "2025-11-18T10:27:32.432088",
+      "date": "2025-11-18 10:27:32"
+    },
+    {
+      "username": "Duk",
+      "score": 7,
+      "total_questions": 8,
+      "percentage": 87.5,
+      "time_taken": 49.82752299308777,
+      "category": "All",
+      "timestamp": "2025-11-18T09:57:33.479666",
+      "date": "2025-11-18 09:57:33"
+    },
+    {
+      "username": "Duk",
+      "score": 7,
+      "total_questions": 8,
+      "percentage": 87.5,
+      "time_taken": 82.12475275993347,
+      "category": "All",
+      "timestamp": "2025-11-18T09:58:05.776984",
+      "date": "2025-11-18 09:58:05"
+    },
+    {
+      "username": "duk",
+      "score": 6,
+      "total_questions": 8,
+      "percentage": 75.0,
+      "time_taken": 33.29638409614563,
+      "category": "All",
+      "timestamp": "2025-11-18T10:57:29.752615",
+      "date": "2025-11-18 10:57:29"
+    },
+    {
+      "username": "Duk",
+      "score": 3,
+      "total_questions": 4,
+      "percentage": 75.0,
+      "time_taken": 35.655890226364136,
+      "category": "Entertainment",
+      "timestamp": "2025-11-18T09:55:24.224445",
+      "date": "2025-11-18 09:55:24"
+    },
+    {
+      "username": "duk",
+      "score": 6,
+      "total_questions": 8,
+      "percentage": 75.0,
+      "time_taken": 44.24832510948181,
+      "category": "All",
+      "timestamp": "2025-11-18T10:57:40.704539",
+      "date": "2025-11-18 10:57:40"
+    },
+    {
+      "username": "Duku",
+      "score": 6,
+      "total_questions": 8,
+      "percentage": 75.0,
+      "time_taken": 64.543053150177,
+      "category": "All",
+      "timestamp": "2025-11-17T19:24:04.998794",
+      "date": "2025-11-17 19:24:04"
+    },
+    {
+      "username": "Duku",
+      "score": 6,
+      "total_questions": 8,
+      "percentage": 75.0,
+      "time_taken": 69.40176320075989,
+      "category": "All",
+      "timestamp": "2025-11-17T19:24:09.857610",
+      "date": "2025-11-17 19:24:09"
+    },
+    {
+      "username": "Duk",
+      "score": 3,
+      "total_questions": 4,
+      "percentage": 75.0,
+      "time_taken": 105.07967615127563,
+      "category": "Entertainment",
+      "timestamp": "2025-11-18T09:56:33.648394",
+      "date": "2025-11-18 09:56:33"
+    },
+    {
+      "username": "Duku",
+      "score": 5,
+      "total_questions": 7,
+      "percentage": 71.42857142857143,
+      "time_taken": 42.65827918052673,
+      "category": "All",
+      "timestamp": "2025-11-18T15:48:08.447138",
+      "date": "2025-11-18 15:48:08"
+    },
+    {
+      "username": "Duku",
+      "score": 5,
+      "total_questions": 7,
+      "percentage": 71.42857142857143,
+      "time_taken": 63.4587938785553,
+      "category": "All",
+      "timestamp": "2025-11-18T15:48:29.247671",
+      "date": "2025-11-18 15:48:29"
+    },
+    {
+      "username": "DUku",
+      "score": 10,
+      "total_questions": 20,
+      "percentage": 50.0,
+      "time_taken": 77.59833312034607,
+      "category": "All",
+      "timestamp": "2025-11-18T10:35:06.911448",
+      "date": "2025-11-18 10:35:06"
+    },
+    {
+      "username": "DUku",
+      "score": 10,
+      "total_questions": 20,
+      "percentage": 50.0,
+      "time_taken": 88.79861092567444,
+      "category": "All",
+      "timestamp": "2025-11-18T10:35:18.111732",
+      "date": "2025-11-18 10:35:18"
+    }
+  ],
+  "last_updated": "2025-11-18T15:48:29.247920"
+}
